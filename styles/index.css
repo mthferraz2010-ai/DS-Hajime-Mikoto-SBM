@@ -1,0 +1,11 @@
+@font-face {
+    font-family: old london;
+    src: url(../fontes/old_london/Olondon_.otf)
+}
+
+
+.navbar-brand {
+    font-family: old london;
+    color: #f2f2f2 !important;
+    font-size: 3rem;
+}
