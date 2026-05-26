@@ -1,11 +1,11 @@
 @font-face {
-    font-family: old london;
-    src: url(../fontes/old_london/Olondon_.otf)
+    font-family: Eternalo;
+    src: url(../fontes/eternalo/Eternalo.ttf)
 }
 
 
 .navbar-brand {
-    font-family: old london;
+    font-family: Eternalo;
     color: #f2f2f2 !important;
     font-size: 3rem;
 }
